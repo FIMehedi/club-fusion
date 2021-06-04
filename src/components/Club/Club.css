@@ -1,0 +1,54 @@
+.club {
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    background: white;
+    flex-direction: column;
+    margin: 20px;
+    width: 350px;
+    border-radius: 10px;
+}
+
+.club-logo {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.club-logo img {
+    width: 100%;
+}
+
+
+.club-type {
+    color: #333;
+    font-size: 14px;
+}
+
+.btn {
+    background-color: #3A42FF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.btn:hover {
+    background-color: #2126ad;
+}
+
+.btn-icon {
+    transition: .3s;
+}
+
+.btn:hover .btn-icon {
+    transform: translateX(5px);
+}
+
+.club-name {
+    padding: 10px 0;
+}

@@ -1,0 +1,6 @@
+.clubs,
+.status-area {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}

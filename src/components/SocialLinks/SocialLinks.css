@@ -1,0 +1,20 @@
+.social-area {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+.social-area a {
+    margin: 0 10px;
+}
+
+.social-area .social-link {
+    font-size: 30px;
+    color: black;
+    filter: opacity(.5);
+    transition: .1s;
+}
+
+.social-area .social-link:hover {
+    filter: opacity(1);
+}

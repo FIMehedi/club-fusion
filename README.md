@@ -1,6 +1,6 @@
 # Club Fusion
 
-Club Fusion is a react application where you will find all the Spanish football clubs and also some details about those clubs. This application uses an API called "[The Sports DB](https://www.thesportsdb.com/)". Currently, it's hosted on Netlify web hosting. Try it now [Club Fusion]().
+Club Fusion is a react application where you will find all the Spanish football clubs and also some details about those clubs. This application uses an API called "[The Sports DB](https://www.thesportsdb.com/)". Currently, it's hosted on Netlify web hosting. Try it now [Club Fusion](https://romantic-colden-760f3f.netlify.app/).
 
 ## Features of Application
 
@@ -17,9 +17,9 @@ Club Fusion is a react application where you will find all the Spanish football 
 * JSX
 * API
 
-### Click 👉 [Club Fusion]()
+### Click 👉 [Club Fusion](https://romantic-colden-760f3f.netlify.app/)
 
-### club-fusion.com
+### https://romantic-colden-760f3f.netlify.app/
 
 ## Available Scripts
 
